@@ -3758,7 +3758,7 @@ draggable(main)
 draggable(configmain)
 draggable(spectatorlist)
 
-username.Text = "".._G['Visages'].."IP: "..ip..""
+username.Text = "".._G['Visages'].." | IP: "..ip..""
 configmain.Visible = true
 loadsavedfileconfig()
 
