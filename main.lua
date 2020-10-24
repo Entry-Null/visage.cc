@@ -1234,7 +1234,7 @@ end
 local CharacterRage = addcategory({
 	parent = FIRST_rage,
 	title = 'Character',
-	lenght = 100
+	lenght = 150
 })
 
 addtoggle({
@@ -1298,13 +1298,13 @@ end)
 local EnvironmentRage = addcategory({
 	parent = FIRST_rage,
 	title = 'Environment',
-	lenght = 100
+	lenght = 110
 })
 
 local GunModRage = addcategory({
 	parent = FIRST_rage,
 	title = 'Gun Mods',
-	lenght = 140
+	lenght = 150
 })
 
 addtoggle({
@@ -1362,7 +1362,7 @@ end)
 local TrollRage = addcategory({
 	parent = FIRST_rage,
 	title = 'Troll',
-	lenght = 100
+	lenght = 130
 })
 
 
@@ -1495,7 +1495,7 @@ end)
 local EffectsLegit = addcategory({
 	parent = FIRST_legit,
 	title = 'Effects',
-	lenght = 100
+	lenght = 90
 })
 
 addtoggle({
@@ -1510,7 +1510,7 @@ end)
 local AimbotLegit = addcategory({
 	parent = FIRST_legit,
 	title = 'Aimbot',
-	lenght = 100
+	lenght = 120
 })
 
 addtoggle({
